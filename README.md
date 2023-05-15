@@ -3,10 +3,10 @@ schema_design interview questions:
 
 
 Question 1
-Movies Schema Design Project
+**Movies Schema Design Project**
 This project is a sample implementation of a database schema for a movie database. The database contains information about movies such as the title, year of release, director, and actors.
 
-Tables and Attributes
+**Tables and Attributes**
 The schema consists of the following tables and attributes:
 
 Movies
